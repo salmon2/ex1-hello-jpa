@@ -83,7 +83,7 @@ public class JpaMain {
         }finally {
             em.close();
         }
-
+fdfd
         emf.close();
     }
 }
